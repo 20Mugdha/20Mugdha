@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Panuganti Mugdha
+- 👀 I’m interested in As a Computer Science student, I am passionate about software development, artificial intelligence, and cybersecurity. I enjoy designing and developing applications, exploring AI and machine learning algorithms, and understanding digital security measures. My interests drive me to stay updated with the latest advancements and continuously challenge myself through various projects and collaborative efforts.
+- 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+20Mugdha/20Mugdha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
